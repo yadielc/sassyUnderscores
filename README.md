@@ -2,9 +2,9 @@
 
 _s
 ===
-NOTE: This is a version edited by Yadiel F. Cabrera for the Developing with Sass and Grunt.js course on Lynda.com. 
+<b>NOTE: This is a version edited by Yadiel F. Cabrera for the Developing with Sass and Grunt.js course on Lynda.com. 
 The purpose of this project was to learn how to use grunt.js and its sass functionalities. Among the functionalities you will see
-on this project is autoprefixer, which was set for the last 2 versions of the browser. 
+on this project is autoprefixer, which was set for the last 2 versions of the browser. </b> 
 
 Hi. I'm a starter theme called `_s`, or `underscores`, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
 
